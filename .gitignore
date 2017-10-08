@@ -1,0 +1,5 @@
+# Python's bytecode
+*.pyc
+
+# virtual environments
+*_env
